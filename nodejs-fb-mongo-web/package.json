@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-fb-mongo-web",
+  "version": "1.0.0",
+  "description": "Upload and retrive image from firebase and dump in MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@jashan_bhullar",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^1.1.1",
+    "express": "^4.15.3",
+    "firebase": "^4.1.2",
+    "gcloud": "^0.37.2",
+    "mongoose": "^4.10.5"
+  }
+}

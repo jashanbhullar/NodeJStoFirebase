@@ -1,0 +1,16 @@
+{
+  "name": "node-firebase-image-linking",
+  "version": "1.0.0",
+  "description": "Linking Firebase Storge with Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jashanbhullar",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^1.1.1",
+    "firebase": "^4.1.2",
+    "node-dir": "^0.1.17"
+  }
+}

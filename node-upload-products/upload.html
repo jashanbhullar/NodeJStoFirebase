@@ -1,0 +1,68 @@
+<html>
+<body>
+<script src="https://www.gstatic.com/firebasejs/4.1.2/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBSwopfdHBD73gGOAjf-DJm0dq9j0HaLBo",
+    authDomain: "nodejstofirebase.firebaseapp.com",
+    databaseURL: "https://nodejstofirebase.firebaseio.com",
+    projectId: "nodejstofirebase",
+    storageBucket: "nodejstofirebase.appspot.com",
+    messagingSenderId: "279800640313"
+  };
+  firebase.initializeApp(config);
+  var db = firebase.database().ref('/products');
+
+  db.once('value',function(snap){
+	snap.forEach(function(childsnap){
+		var key = childsnap.key;
+		var ref = db.child(key);
+		ref.once('value',function(final){
+			var i = document.createElement("input");
+			i.setAttribute('type','file');
+			i.setAttribute('id',final.key);
+			i.setAttribute('accept','image/*');
+			var txt = document.createTextNode(final.child('Name').val());
+			var br = document.createElement("br");
+			document.getElementById('91').appendChild(i);
+			document.getElementById('91').appendChild(txt);
+			document.getElementById('91').appendChild(br);
+			doIt(final.key);
+		});
+	});
+});
+function doIt(id)
+{
+	var button = document.getElementById(id);
+
+	if(button)
+	{
+		button.addEventListener('change',function(e){
+
+		var file = e.target.files[0];
+
+		var storage = firebase.storage().ref('images/products/'+file.name);
+
+		var store ='nodejstofirebase.appspot.com//images/products/'+file.name;
+
+		var task = storage.put(file);
+
+			task.on('state_changed',function complete(){
+				db.child(id).update({
+					"Image" : store
+				});
+				console.log('Updated');
+			});
+
+		});
+	}
+	
+}
+</script>
+<p> This is the html page </p>
+<form id='91' method="post">
+<br>
+</form>
+</body>
+</html>

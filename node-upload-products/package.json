@@ -1,0 +1,14 @@
+{
+  "name": "node-upload-products",
+  "version": "1.0.0",
+  "description": "Uploading products with their images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jashanbhullar",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.1.2"
+  }
+}
