@@ -1,0 +1,507 @@
+[
+{
+"name": "adidas",
+"shop_id":101,
+"Mall_ID": "1001",
+"shop_number": 30,
+"floor_number": "FIRST FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 8067266167,
+
+"location":
+		{
+			"latitude": 12.997802,  
+			"longitude": 77.697053 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "85,000", 
+			"squarefeets": "1200"
+		}
+},
+
+
+
+{
+"name": "Levis",
+"shop_id":102,
+"Mall_ID": "1003",
+"shop_number": 3,
+"floor_number": "SECOND FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 9273849372,
+
+"location":
+		{
+			"latitude": 11.91123, 
+			"longitude": 77.61293 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "140000",
+			"squarefeets": "1400"
+		}
+},
+
+
+
+
+{
+"name": "nike",
+"shop_id":103,
+"Mall_ID": "1004",
+"shop_number": 4,
+"floor_number": "Ground FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 8264738392,
+
+"location":
+		{
+			"latitude": 15.997802,
+			"longitude": 79.697053 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "125000", 
+			"squarefeets": "850"
+		}
+},
+
+
+{
+"name": "dell",
+"shop_id":201,
+"Mall_ID": "1005",
+"shop_number": 22,
+"floor_number": "SECOND FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 7383927178,
+
+"location":
+		{
+			"latitude": 12.997802,  
+			"longitude": 77.697053
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "40000", 
+			"squarefeets": "1350"
+		}
+},
+
+
+{
+"name": "hp",
+"shop_id":202,
+"Mall_ID": "1002",
+"shop_number": 16,
+"floor_number": "FIRST FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 8067266167,
+
+"location":
+		{
+			"latitude": 13.997802,  
+			"longitude": 78.697053 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "100000",
+			"squarefeets": "900"
+		}
+},
+
+
+{
+"name": "apple",
+"shop_id":203,
+"Mall_ID": "1004",
+"shop_number": 29,
+"floor_number": "Ground FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 8067266167,
+
+"location":
+		{
+			"latitude": 15.997802,
+			"longitude": 71.697053 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "80000", 
+			"squarefeets": "1400"
+		}	
+},
+
+
+{
+"name": "duke",
+"shop_id":104,
+"Mall_ID": "1001",
+"shop_number": 13,
+"floor_number": "FIRST FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 7282528392,
+
+"location":
+		{
+			"latitude": 13.918212,
+			"longitude": 77.656172
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "140000", 
+			"squarefeets": "1350"
+		}
+},
+
+
+{
+"name": "reliance",
+"Mall_ID": "1002",
+"shop_id":121,
+"shop_number": 3,
+"floor_number": "Ground FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 7293749238,
+
+"location":
+		{
+			"latitude": 12.713838,  
+			"longitude": 77.125219
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "87000", 
+			"squarefeets": "890"
+		}
+},
+
+{
+"name": "KFC",
+"shop_id":301,
+"Mall_ID": "1003",
+"shop_number": 13,
+"floor_number": "Third FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 88236281927,
+
+"location":
+		{
+			"latitude": 14.726473,
+			"longitude": 79.26273 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "100000", 
+			"squarefeets": "1250"
+		}
+},
+
+{
+"name": "Dominoz",
+"shop_id":302,
+"Mall_ID": "1001",
+"shop_number": 8,
+"floor_number": "FIRST FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 973627372,
+
+"location":
+		{
+			"latitude": 11.997902,  
+			"longitude": 77.612723 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details":
+		{
+			"rent_monthly": "120000", 
+			"squarefeets": "980"
+		}
+},
+
+{
+"name": "SUBWAY",
+"shop_id":303,
+"Mall_ID": "1004",
+"shop_number": 23,
+"floor_number": "GROUND FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 882738293,
+
+"location":
+		{
+			"latitude": 14.997802,  
+			"longitude": 87.697053 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "120000", 
+			"squarefeets": "1050"
+}
+},
+
+{
+"name": "pantaloons",
+"shop_id":105,
+"Mall_ID": "1005",
+"shop_number": 32,
+"floor_number": "FIRST FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 9826383921,
+
+"location":
+		{
+			"latitude": 12.997802,  
+			"longitude": 76.697053 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "110000", 
+			"squarefeets": "960"
+		}
+},
+
+
+{
+"name": "SkyBags",
+"Mall_ID": "1003",
+"shop_id":204,
+"shop_number": 14,
+"floor_number": "FIRST FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 8067266167,
+
+"location":
+		{
+			"latitude": 12.563738, 
+			"longitude": 77.225267 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "100000", 
+			"squarefeets": "1200"
+		}
+},
+
+
+{
+"name": "MORE Mega Store",
+"Mall_ID": "1002",
+"shop_id":125,
+"shop_number": 1,
+"floor_number": "GROUND FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 783945627,
+
+"location":
+		{
+			"latitude": 14.127802,  
+			"longitude": 79.697141 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details":
+		{
+			"rent_monthly": "120000", 
+			"squarefeets": "1050"
+		}
+},
+
+
+
+{
+"name": "Madame",
+"Mall_ID": "1003",
+"shop_id":106,
+"shop_number": 13,
+"floor_number": "THIRD FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 7261829328,
+
+"location":
+		{
+			"latitude": 15.997812, 
+			"longitude": 72.697421 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "130000", 
+			"squarefeets": "950"
+		}
+},
+
+
+{
+"name": "Samsung",
+"Mall_ID": "1005",
+"shop_id":205,
+"shop_number": 14,
+"floor_number": "FIRST FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 8612781012,
+
+"location":
+		{
+			"latitude": 11.916239,  
+			"longitude": 76.738233
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 	
+		{
+			"rent_monthly": "130000", 
+			"squarefeets": "1050"
+		}
+},
+
+
+{
+"name": "BATA",
+"Mall_ID": "1004",
+"shop_id":107,
+"shop_number": 20,
+"floor_number": "SECOND FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 9276372821,
+
+"location":
+		{
+			"latitude": 12.878382,  
+			"longitude": 77.739292 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "130000", 
+			"squarefeets": "1300"
+		}
+},
+
+
+{
+"name": "REEBOK",
+"Mall_ID": "1002",
+"shop_id":108,
+"shop_number": 19,
+"floor_number": "SECOND FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 7283762821,
+
+"location":
+		{
+			"latitude": 12.997802,  
+			"longitude": 77.697053 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details":
+		{
+			"rent_monthly": "100000", 
+			"squarefeets": "1250"
+		}
+},
+
+
+{
+"name": "WoodLand",
+"Mall_ID": "1001",
+"shop_id":109,
+"shop_number": 13,
+"floor_number": "FIRST FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 8983729237,
+
+"location":
+		{
+			"latitude": 11.997537,  
+			"longitude": 72.642053
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "130000", 
+			"squarefeets": "1350"
+		}
+},
+
+{
+"name": "LEE",
+"shop_id":207,
+"Mall_ID": "1003",
+"shop_number":3,
+"floor_number": "GROUND FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 7262543627,
+
+"location":
+		{
+			"latitude": 10.997521,  
+			"longitude": 77.697412 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "125000", 
+			"squarefeets": "1020"
+		}
+},
+
+{
+"name": "Red Chief",
+"Mall_ID": "1004",
+"shop_id":208,
+"shop_number": 30,
+"floor_number": "FIRST FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 8067266167,
+
+"location":
+		{
+			"latitude": 12.997802,  
+			"longitude": 77.697053 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "130000", 
+			"squarefeets": "850"
+		}
+},
+
+
+{
+"name": "TITAN",
+"Mall_ID": "1002",
+"shop_id":209,
+"shop_number": 6,
+"floor_number": "THIRD FLOOR",
+"open_hours": "Weekdays - 10.30 AM To 9:30 PM | Weekends & Public Holidays - 10.00 AM To 9:30 PM",
+"contact_no": 8618382991,
+
+"location":
+		{
+			"latitude": 12.997802,  	
+			"longitude": 77.697053 
+		},
+"full_address": "30, First floor, Phoenix Marketcity, Devasandra Industrial Estate, Krishnarajapura, Bengaluru, Karnataka 560048",
+"shop_details": 
+		{
+			"rent_monthly": "125000", 
+			"squarefeets": "1200"
+		}
+}
+
+
+
+]
